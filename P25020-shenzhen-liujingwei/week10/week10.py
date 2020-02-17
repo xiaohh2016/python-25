@@ -40,3 +40,5 @@ print(s[2])
 print(s.up())
 print(s.lw())
 print(s.findS('d'))
+
+# 实现的很不错，基础知识掌握的非常扎实。
