@@ -74,3 +74,5 @@ if __name__ == '__main__':
     print(list(filter(func3, [0, 201, 1, 2, 3, 100, 101])))
     print(list(zip()))
     print(list(filter(None, [0, 201, 1, 2, 3, 100, 101])))
+    
+ # 实现的非常棒，尝试着在实现中加入一些异常情况处理。目前的代码中基本上没有异常处理的地方。
