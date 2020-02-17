@@ -23,3 +23,5 @@ def myzip(*iterables):
 n = myzip('123', 'ABCDE')
 
 print(list(n))
+
+# 这里完成的非常不错。
