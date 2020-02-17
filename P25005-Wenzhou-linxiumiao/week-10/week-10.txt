@@ -40,3 +40,5 @@ return '位置{} 次数{}'.format(list1,len(list1))
 
 a = String('Ab c')
 print(a.__find__('b'))
+
+# 基本功能都实现了，类的格式也写的很好，但是在提交代码的时候请注意代码的缩进。
